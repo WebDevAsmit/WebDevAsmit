@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 About Me<br><br>I am a passionate technology enthusiast focused on building practical, impactful digital solutions. I enjoy working on web development projects, software engineering concepts, and platform-based solutions that help users and organizations work more efficiently. Over time, I have worked on websites, portals, dashboards, event platforms, and technology-driven initiatives, with a strong interest in user experience, problem solving, and real-world application of technology.<br><br>I also actively engage in leadership and community activities, contributing to college clubs, technical events, sports management, and social initiatives. This blend of technical and organizational experience has helped me develop strong coordination, communication, and project management abilities alongside my technical skills.<br><br>Currently, I am continuously improving my development skills, exploring modern tools, and working towards becoming a well-rounded professional capable of contributing to meaningful projects.
 
 
